@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main(void) {
+	// preconditions : input integer
+	// postconditions : print salary (50+'int'*0.12)
 
 	int val, sum;
     

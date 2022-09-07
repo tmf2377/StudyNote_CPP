@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main(void) {
+	// preconditions : input name, phone number
+	// postconditions : print name,  phone number
 
 	char name[100];
 	char number[100];

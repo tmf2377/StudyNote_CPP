@@ -1,3 +1,2 @@
-﻿  1-4.cpp
-C:\Users\allrp\Desktop\Study\GitHub\StudyNote_CPP\1_USU_hard_CPP\Chapter_01\Project1\1-4.cpp(17,21): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Project1.vcxproj -> C:\Users\allrp\Desktop\Study\GitHub\StudyNote_CPP\1_USU_hard_CPP\Chapter_01\Project1\Debug\Project1.exe
+﻿  3-1.cpp
+  Project1.vcxproj -> C:\Users\allrp\Desktop\Study\GitHub\StudyNote_CPP\1_USU_hard_CPP\Chapter_01\Debug\Project1.exe

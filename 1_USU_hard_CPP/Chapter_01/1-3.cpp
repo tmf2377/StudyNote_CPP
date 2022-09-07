@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main(void) {
+	// preconditions : input integer
+	// postconditions : print multiplication table
 
 	int val;
 	

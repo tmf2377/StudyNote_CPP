@@ -1,1 +1,2 @@
 C:\Users\allrp\Desktop\Study\GitHub\StudyNote_CPP\1_USU_hard_CPP\Chapter_01\Project1\Debug\Project1.exe
+C:\Users\allrp\Desktop\Study\GitHub\StudyNote_CPP\1_USU_hard_CPP\Chapter_01\Debug\Project1.exe
